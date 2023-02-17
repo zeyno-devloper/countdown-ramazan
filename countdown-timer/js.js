@@ -4,7 +4,7 @@ const minsel=document.getElementById('mins');
 const secondsel=document.getElementById('seconds');
 
 
-const startramzan="12 april 2021";
+const startramzan="22 march 2023";
 
 function countdown(){
 const startramzandate=new Date(startramzan);
